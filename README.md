@@ -7,7 +7,9 @@ CodeWars Kata.
 * Python 3
 
 William Ponton
+
 1.20.19
+
 7 kyu
 
 Make a program that filters a list of strings and returns a list with only your friends name in it.
@@ -40,7 +42,7 @@ Next, the name is appended to either the foe_list or friend_list depending on th
 
 If the name has exactly 4 characters, it is a FRIEND~!
 
-Output it displayed to the user:
+Output the lists and display to the user:
 
 ```python
 # console_output(list, list, list)
