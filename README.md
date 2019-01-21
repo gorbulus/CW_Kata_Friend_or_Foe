@@ -4,9 +4,7 @@ CodeWars Kata.
 
 7 Kyu:
 
-* python.
-* `PicturePost`: A post containing text and the URL of a picture: Should be constructed as `PicturePost(text="Post Text", image_url="imgur.com/OAWTSJu")`.
-* `CheckInPost`: A post containing text and coordinates of the user's position. Should be constructed as `CheckInPost(text="Post Text", latitude="40.741895", longitude="-73.989308")`.
+* Python 3
 
 William Ponton
 1.20.19
